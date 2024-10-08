@@ -1,5 +1,9 @@
-<p align="center"><img src="./public/logo.svg" /></p>
+<div align="center">
+<img src="./public/logo.svg" /></p>
+</div>
 
 ### GitHub Stats
 
-<p align="left"><img src="./public/github-metrics.svg" /></p>
+<div align="center">
+<img src="./public/github-metrics.svg" />\
+</div>
