@@ -4,6 +4,6 @@
 
 ### GitHub Stats
 
-<div align="center">
+<div align="left">
 <img src="./public/github-metrics.svg" />\
 </div>
