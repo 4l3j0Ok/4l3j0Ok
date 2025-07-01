@@ -16,6 +16,8 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Set PATH
+        run: echo "PATH=$PATH" >> $GITHUB_ENV
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_PAT }}
