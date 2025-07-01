@@ -16,7 +16,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: 4l3j0Ok/metrics@latest
         with:
           token: ${{ secrets.GH_PAT }}
           filename: public/github-metrics.svg
