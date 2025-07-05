@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Alejo Sarmiento
 
-🎯 Desarrollador Full Stack | 💻 Amante de Linux | 🧠 Apasionado por la automatización
-
 ---
 
 ## 🚀 Sobre mí
