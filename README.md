@@ -10,8 +10,6 @@ Podes visitar mi página web personal en [alejoide.com](https://alejoide.com) pa
 
 ## 🛠️ Tecnologías que uso
 
-<div align="center">
-
 ### DevOps
 
 ![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=blue&labelColor=white)
@@ -57,8 +55,6 @@ Podes visitar mi página web personal en [alejoide.com](https://alejoide.com) pa
 ![PySide](https://img.shields.io/badge/PySide%20/%20PyQT-3670A0?style=for-the-badge&logo=qt&logoColor=white&label&labelColor=009390&color=eee)
 ![Tkinter](https://img.shields.io/badge/Tkinter-008000?style=for-the-badge&logo=python&logoColor=white&labelColor=009390&color=eee)
 ![.NET Windows Forms](https://img.shields.io/badge/.net%20Windows%20Forms-5C2D91?style=for-the-badge&logo=.net&logoColor=5C2D91&labelColor=white)
-
-</div>
 
 ## 📂 Proyectos recientes
 <div align="center">
