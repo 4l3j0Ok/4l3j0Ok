@@ -1,17 +1,12 @@
 # 👋 ¡Hola! Soy Alejo Sarmiento
 
----
-
 ## 🚀 Sobre mí
-
 
 Soy SRE y desarrollador de software con más de 5 años de experiencia en el campo.
 
 Actualmente, me desempeño como SRE / DevOps en la Leafnoise, donde me encargo de la automatización de procesos y la implementación de soluciones relacionadas con la infraestructura y el desarrollo de software.
 
 Podes visitar mi página web personal en [alejoide.com](https://alejoide.com) para conocer más sobre mis proyectos y habilidades.
-
----
 
 ## 🛠️ Tecnologías que uso
 
@@ -65,8 +60,6 @@ Podes visitar mi página web personal en [alejoide.com](https://alejoide.com) pa
 
 </div>
 
----
-
 ## 📂 Proyectos recientes
 <div align="center">
     <table>
@@ -85,6 +78,3 @@ Podes visitar mi página web personal en [alejoide.com](https://alejoide.com) pa
 
 
 [![Correo](https://img.shields.io/badge/Email-contacto@alejoide.com-red?style=for-the-badge&logo=gmail&logoColor=red&labelColor=white)](mailto:contacto@alejoide.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-@alejoide-0a66c2?style=for-the-badge&logo=invision&logoColor=0a66c2&labelColor=white)](https://www.linkedin.com/in/alejoide/) ![Discord](https://img.shields.io/badge/Discord-@alejoide.-5865F2?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=white)
-
----
-
